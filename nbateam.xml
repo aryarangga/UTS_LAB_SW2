@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<nbateam>
+	<team name="Cavaliers">
+		<conference>Eastern</conference>
+		<founded>1970</founded>
+		<town>Cleveland</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Warriors">
+		<conference>Western</conference>
+		<founded>1946</founded>
+		<town>San Francisco</town>
+		<champion>6 times</champion>
+	</team>	
+
+	<team name="Lakers">
+		<conference>Western</conference>
+		<founded>1947</founded>
+		<town>Los Angeles</town>
+		<champion>16 times</champion>
+	</team>
+
+	<team name="Thunder">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>Okhlahoma City</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Celtics">
+		<conference>Eastern</conference>
+		<founded>1946</founded>
+		<town>Boston</town>
+		<champion>17 times</champion>
+	</team>
+
+	<team name="Rockets">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>Houston</town>
+		<champion>2 times</champion>
+	</team>
+
+</nbateam>
