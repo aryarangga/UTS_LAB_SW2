@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<nbateam>
+	<team name="Cavaliers">
+		<conference>Eastern</conference>
+		<founded>1970</founded>
+		<town>Cleveland</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Warriors">
+		<conference>Western</conference>
+		<founded>1946</founded>
+		<town>San Francisco</town>
+		<champion>6 times</champion>
+	</team>	
+
+	<team name="Lakers">
+		<conference>Western</conference>
+		<founded>1947</founded>
+		<town>Los Angeles</town>
+		<champion>16 times</champion>
+	</team>
+
+	<team name="Thunder">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>Okhlahoma City</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Celtics">
+		<conference>Eastern</conference>
+		<founded>1946</founded>
+		<town>Boston</town>
+		<champion>17 times</champion>
+	</team>
+
+	<team name="Rockets">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>Houston</town>
+		<champion>2 times</champion>
+	</team>
+
+	<team name="Sixers">
+		<conference>Eastern</conference>
+		<founded>1946</founded>
+		<town>Philadelphia</town>
+		<champion>3 times</champion>
+	</team>
+
+	<team name="Raptors">
+		<conference>Eastern</conference>
+		<founded>1995</founded>
+		<town>Toronto</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Bucks">
+		<conference>Eastern</conference>
+		<founded>1968</founded>
+		<town>Milwaukee</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Trail Blazers">
+		<conference>Western</conference>
+		<founded>1970</founded>
+		<town>Portland</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Spurs">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>San Antonio</town>
+		<champion>5 times</champion>
+	</team>
+
+	<team name="Pistons">
+		<conference>Eastern</conference>
+		<founded>1941</founded>
+		<town>Detroit</town>
+		<champion>3 times</champion>
+	</team>
+
+	<team name="Clippers">
+		<conference>Western</conference>
+		<founded>1970</founded>
+		<town>Los Angeles</town>
+		<champion>0 times</champion>
+	</team>
+
+	<team name="Nuggets">
+		<conference>Western</conference>
+		<founded>1967</founded>
+		<town>Denver</town>
+		<champion>0 times</champion>
+	</team>	
+
+	<team name="Jazz">
+		<conference>Western</conference>
+		<founded>1974</founded>
+		<town>Salt Lake City</town>
+		<champion>0 times</champion>
+	</team>
+
+	<team name="Nets">
+		<conference>Eastern</conference>
+		<founded>1967</founded>
+		<town>Brooklyn</town>
+		<champion>2 times</champion>
+	</team>
+
+	<team name="Timberwolves">
+		<conference>Western</conference>
+		<founded>1989</founded>
+		<town>Minnesota</town>
+		<champion>0 times</champion>
+	</team>
+
+	<team name="Heat">
+		<conference>Eastern</conference>
+		<founded>1988</founded>
+		<town>Miami</town>
+		<champion>3 times</champion>
+	</team>
+
+	<team name="Pacers">
+		<conference>Eastern</conference>
+		<founded>1967</founded>
+		<town>Indiana</town>
+		<champion>3 times</champion>
+	</team>
+
+	<team name="Bulls">
+		<conference>Eastern</conference>
+		<founded>1966</founded>
+		<town>Chicago</town>
+		<champion>6 times</champion>
+	</team>
+
+	<team name="Mavericks">
+		<conference>Western</conference>
+		<founded>1980</founded>
+		<town>Texas</town>
+		<champion>1 times</champion>
+	</team>
+
+	<team name="Hawks">
+		<conference>Eastern</conference>
+		<founded>1946</founded>
+		<town>Atlanta</town>
+		<champion>1 times</champion>
+	</team>
+
+
+
+</nbateam>
