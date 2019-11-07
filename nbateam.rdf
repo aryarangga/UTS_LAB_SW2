@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:nba="http://nba.com/teams#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description
+rdf:about="http://nba.com/team/cavaliers#">
+    <nba:team>Cavaliers</nba:team>
+ 	<foaf:conference>Eastern</foaf:conference>
+ 	<foaf:founded>1970</foaf:founded>
+ 	<foaf:town>Cleveland</foaf:town>
+ 	<foaf:champion>1 times</foaf:champion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://nba.com/team/warriors#">
+    <nba:team>Warriors</nba:team>
+ 	<nba:conference>Western</nba:conference>
+ 	<nba:founded>1946</nba:founded>
+ 	<nba:town>San Fransisco</nba:town>
+ 	<nba:champion>6 times</nba:champion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://nba.com/team/lakers#">
+    <nba:team>Lakers</nba:team>
+ 	<nba:conference>Western</nba:conference>
+ 	<nba:founded>1947</nba:founded>
+ 	<nba:town>Los Angeles</nba:town>
+ 	<nba:champion>16 times</nba:champion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://nba.com/team/Thunder#">
+    <nba:team>Thunder</nba:team>
+ 	<nba:conference>Western</nba:conference>
+ 	<nba:founded>1967</nba:founded>
+ 	<nba:town>Okhlahoma</nba:town>
+ 	<nba:champion>1 times</nba:champion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://nba.com/team/Celtics#">
+    <nba:team>Celtics</nba:team>
+ 	<nba:conference>Eastern</nba:conference>
+ 	<nba:founded>1946</nba:founded>
+ 	<nba:town>Boston</nba:town>
+ 	<nba:champion>17 times</nba:champion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://nba.com/team/Rockets#">
+    <nba:team>Rockerts</nba:team>
+ 	<nba:conference>Western</nba:conference>
+ 	<nba:founded>1967</nba:founded>
+ 	<nba:town>Houston</nba:town>
+ 	<nba:champion>2 times</nba:champion>
+</rdf:Description>
+
+</rdf:RDF>
