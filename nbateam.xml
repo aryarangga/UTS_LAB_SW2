@@ -43,4 +43,12 @@
 		<champion>2 times</champion>
 	</team>
 
+	<team name="Nets">
+		<conference>Eastern</conference>
+		<founded>1967</founded>
+		<town>Brooklyn</town>
+		<champion>0 times</champion>
+	</team>	
+
+	
 </nbateam>
