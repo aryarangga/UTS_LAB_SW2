@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix nba: <http://nba.com/teams#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+nba:cavaliers foaf:team "Cavaliers" ;
+			  foaf:conference "Eastern" ;
+			  foaf:founded "1970" ;
+			  foaf:town "Cleveland" ;
+			  foaf:champion "1 times" .
+
+nba:warriors foaf:team "Warriors" ;
+			  foaf:conference "Western" ;
+			  foaf:founded "1946" ;
+			  foaf:town "San Fransisco" ;
+			  foaf:champion "6 times" .
+
+nba:Thunder foaf:team "Thunder" ;
+			  foaf:conference "Western" ;
+			  foaf:founded "1967" ;
+			  foaf:town "Okhlahoma" ;
+			  foaf:champion "1 times" .
+
+nba:Celtics foaf:team "Celtics" ;
+			  foaf:conference "Eastern" ;
+			  foaf:founded "1946" ;
+			  foaf:town "Boston" ;
+			  foaf:champion "17 times" .
+
+nba:Celtics foaf:team "Celtics" ;
+			  foaf:conference "Eastern" ;
+			  foaf:founded "1946" ;
+			  foaf:town "Boston" ;
+			  foaf:champion "17 times" .
