@@ -4,7 +4,7 @@
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:nba="http://nba.com/teams#"
 xmlns:foaf="http://xmlns.com/foaf/0.1/">
-============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/cavaliers#">
     <foaf:team>Cavaliers</foaf:team>
@@ -13,7 +13,7 @@ rdf:about="http://nba.com/team/cavaliers#">
  	<foaf:town>Cleveland</foaf:town>
  	<foaf:champion>1 times</foaf:champion>
 </rdf:Description>
-==============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/warriors#">
     <foaf:team>Warriors</foaf:team>
@@ -22,7 +22,7 @@ rdf:about="http://nba.com/team/warriors#">
  	<foaf:town>San Fransisco</foaf:town>
  	<foaf:champion>6 times</foaf:champion>
 </rdf:Description>
-==============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/lakers#">
     <foaf:team>Lakers</foaf:team>
@@ -31,7 +31,7 @@ rdf:about="http://nba.com/team/lakers#">
  	<foaf:town>Los Angeles</foaf:town>
  	<foaf:champion>16 times</foaf:champion>
 </rdf:Description>
-==============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/Thunder#">
     <foaf:team>Thunder</foaf:team>
@@ -40,7 +40,7 @@ rdf:about="http://nba.com/team/Thunder#">
  	<foaf:town>Okhlahoma</foaf:town>
  	<foaf:champion>1 times</foaf:champion>
 </rdf:Description>
-==============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/Celtics#">
     <foaf:team>Celtics</foaf:team>
@@ -49,7 +49,7 @@ rdf:about="http://nba.com/team/Celtics#">
  	<foaf:town>Boston</foaf:town>
  	<foaf:champion>17 times</foaf:champion>
 </rdf:Description>
-==============================================
+
 <rdf:Description
 rdf:about="http://nba.com/team/Rockets#">
     <foaf:team>Rockerts</foaf:team>
